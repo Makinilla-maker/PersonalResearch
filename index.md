@@ -96,7 +96,7 @@ For example in a tower defense, the roads will be seen as if they were seen from
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Number-person_views.png/220px-Number-person_views.png" width="220" height="179" />
 
 
-### Paleta de colores
+### Color Palette
 
 Here the art lead will do a lot of exploration of the color for the game, which will define the tone of the world and the message it wants to communicate through art. Colors play a big role in making your game look sharp. In this section the whole issue of detail, proportions and scales does not apply since we only want to give an idea of ​​the color that things will have or rather, the color palette that things will have.
 This is not at all mandatory that you do it at the beginning as you cannot take some random colors and say that this is going to be your palette, you have to do an elaborate process of trial and error to see what colors you like to form the palette of perfect colors.
@@ -106,6 +106,9 @@ This is not at all mandatory that you do it at the beginning as you cannot take 
 This is where the art director will capture how he wants the settings to be. Depending on the environment of the game, the environment will be different. An example would be the dark environment of Dark Souls or the feeling of comfort of the Genshin Impact.
 
 ### Textures
+
+In this section the art director will represent the whole theme of the textures that will be represented in the game. Some textures would be: water, Aryan walls, rocks, carpets, etc.
+<img src="https://i.stack.imgur.com/ppj7e.jpg" width="1597" height="447" />
 ### User interface
 The user interface is what encompasses the entire subject of pause menus, inventory menu, HUD, the user experience. The user interface has the same potential as the gameplay setting. So unless the saturation of it is intentional, you have to try to put the essential in it.
 
