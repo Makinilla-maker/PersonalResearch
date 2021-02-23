@@ -120,6 +120,9 @@ The guides are not as artistic a subject as the textures or the characters could
 
 ### References
 
+Some references from other projects.
+
+
 ## How we find it?
 * Concept art
 <img src="https://it-s.com/wp-content/uploads/2020/07/concept-art.jpg" width="347" height="145" /> 
