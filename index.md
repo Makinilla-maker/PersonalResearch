@@ -120,7 +120,7 @@ The guides are not as artistic a subject as the textures or the characters could
 
 ### References
 
-Some references from other projects.
+You can also put some references from other projects.
 
 
 ## How we find it?
