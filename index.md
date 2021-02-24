@@ -109,10 +109,33 @@ This is where the art director will capture how he wants the settings to be. Dep
 
 In this section the art director will represent the whole theme of the textures that will be represented in the game. Some textures would be: water, Aryan walls, rocks, carpets, etc.
 <img src="https://i.stack.imgur.com/ppj7e.jpg" width="1597" height="447" />
+
 ### User interface
 The user interface is what encompasses the entire subject of pause menus, inventory menu, HUD, the user experience. The user interface has the same potential as the gameplay setting. So unless the saturation of it is intentional, you have to try to put the essential in it.
 
 <img src="https://i.pinimg.com/originals/ec/90/96/ec9096543e0507660841e4045ddbc6de.jpg" width="576" height="256" /> 
+
+There are a total of 4 types of interfaces. Diegetic, Non-Diegetic, Spatial and Meta:
+
+Diegetic:
+They are the ones that are in the game and the Main Character could  see it.
+
+<img src="https://miro.medium.com/max/5120/1*lnQ1v3VBe7IZwVspsAk_dQ.jpeg" width="1560" height="440" /> 
+
+Non-Diegetic:
+Non-diegetic UI components are outside of a game’s story and space. None of the characters in the game, including a player’s avatar, know that the components exist.
+
+<img src="https://i.pinimg.com/originals/b4/62/f8/b462f89df5407487f6fb640886909c1f.jpg" width="1024" height="576" /> 
+
+Spatial:
+Spatial UI components are found in a game’s space, but characters within the game don’t see them. They are som kind of help
+
+<img src="https://samwongpic.files.wordpress.com/2014/06/splintercell_ui.jpg?w=300&h=168" width="1560" height="440" /> 
+
+Meta:
+Exist in the game, but the character can't see them. 
+
+<img src="https://i.ytimg.com/vi/q4MA5_U8VDw/maxresdefault.jpg" width="1024" height="576" /> 
 
 ### Guidelines 
 The guides are not as artistic a subject as the textures or the characters could be, but it is just as important since it will be how all the limitations of the project are defined. How will the size of the player be, how will the size of the map be, what proportions a weapon must have, naming conventions, tools to be used (software, hardware, ...) how to export and much more.
