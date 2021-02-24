@@ -151,7 +151,7 @@ You can also put some references from other projects.
 <img src="https://it-s.com/wp-content/uploads/2020/07/concept-art.jpg" width="347" height="145" /> 
 
 * Photography
-<img src="https://www.blogdelfotografo.com/wp-content/uploads/2020/04/fotografo-paisajes.jpg" width="347" height="145" /> 
+<img src="https://www.worldphoto.org/sites/default/files/Timo%20Pagendarm%2C%20Germany%2C%20Commended%2C%20Youth%2C%20Environment%2C%202015%20Sony%20World%20Photography%20Awards.jpg" width="347" height="145" /> 
 
 * Diagrams
 <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/UML-object-diagram-tutorial/Featured_Image.png" width="347" height="145" /> 
