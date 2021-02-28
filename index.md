@@ -163,7 +163,7 @@ You can also put some references from other projects.
 
 ## Template
 
-[https://makinilla-maker.github.io/PersonalResearch/](https://makinilla-maker.github.io/PersonalResearch/)
+[file:///C:/Users/valve/Downloads/Document%20sense%20títol.pdf](file:///C:/Users/valve/Downloads/Document%20sense%20títol.pdf)
 
 ## Bibliography
 [https://github.com/rogerta97/Project2_Zelda/wiki/ArtBible](https://github.com/rogerta97/Project2_Zelda/wiki/ArtBible)
