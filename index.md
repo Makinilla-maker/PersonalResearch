@@ -166,10 +166,10 @@ You can also put some references from other projects.
 [https://makinilla-maker.github.io/PersonalResearch/](https://makinilla-maker.github.io/PersonalResearch/)
 
 ## Bibliography
-https://github.com/rogerta97/Project2_Zelda/wiki/ArtBible
+[https://github.com/rogerta97/Project2_Zelda/wiki/ArtBible](https://github.com/rogerta97/Project2_Zelda/wiki/ArtBible)
 
-https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art/9
+[https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art/9](https://www.slideshare.net/kshiraj/game-art-bible-secret-sauce-to-making-great-game-art/9)
 
-https://www.youtube.com/watch?v=vuXxfnCM56A
+[https://www.youtube.com/watch?v=vuXxfnCM56A](https://www.youtube.com/watch?v=vuXxfnCM56A)
 
-https://www.youtube.com/watch?v=YaDIbe2GeCY&t=496s
+[https://www.youtube.com/watch?v=YaDIbe2GeCY&t=496s](https://www.youtube.com/watch?v=YaDIbe2GeCY&t=496s)
