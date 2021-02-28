@@ -161,6 +161,9 @@ You can also put some references from other projects.
 
 * Referencias
 
+## Template
+
+[https://makinilla-maker.github.io/PersonalResearch/](https://makinilla-maker.github.io/PersonalResearch/)
 
 ## Bibliography
 https://github.com/rogerta97/Project2_Zelda/wiki/ArtBible
